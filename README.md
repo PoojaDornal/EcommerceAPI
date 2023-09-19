@@ -23,7 +23,7 @@ Clone the repository to your local machine:
 
 
 
-git repository Link : https://github.com/atulsanini7900/EcommerceAPI
+git repository Link : https://github.com/PoojaDornal/EcommerceAPI
 video Link: https://drive.google.com/file/d/1J9ZE34JAeKz5UCkGF0hrrX9WzYK-snjA/view
 host Link: https://atulsanini7900.github.io/EcommerceAPI/
 
