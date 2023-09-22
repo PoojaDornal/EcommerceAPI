@@ -17,9 +17,9 @@ const app = express();
 //         console.log(err);
 //     });
 
-mongoose.connect("mongodb+srv://poojadornal:pooja123@cluster0.cwaxtln.mongodb.net/EcommerceApi?retryWrites=true&w=majority", { useNewUrlParser: true, useUnifiedTopology: true })
+mongoose.connect("mongodb+srv://poojadornal:pooja123@cluster0.cwaxtln.mongodb.net/?retryWrites=true&w=majority", { useNewUrlParser: true, useUnifiedTopology: true })
     .then(() => {
-        console.log("Database connection successful");
+        console.log("Database connection successful1");
     })
     .catch((err) => {
         console.log(err);
